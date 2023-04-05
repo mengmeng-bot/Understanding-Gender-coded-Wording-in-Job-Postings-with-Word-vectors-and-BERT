@@ -1,7 +1,7 @@
 # Understanding-Gender-coded-Wording-in-Job-Postings-with-Word-vectors-and-BERT
 Understand Gender-coded Wording in Job Postings
 
-This is my class project for CS224N
+This is my class project for CS224N, winter 2021
 
 Requirements:
 
